@@ -10,7 +10,7 @@ For more information on Laravel Mix, visit the [Laravel Mix](https://laravel-mix
 ## Install
 
 ```sh
-go get -u ugent-library/mix
+go get -u github.com/ugent-library/mix
 ```
 
 ## Example
