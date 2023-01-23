@@ -11,7 +11,7 @@ For more information on Laravel Mix, visit the [Laravel Mix](https://laravel-mix
 go get -u ugent-library/mix
 ```
 
-## Examples
+## Example
 
 Setup your `webpack.mix.js`:
 
