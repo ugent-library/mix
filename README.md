@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/ugent-library/mix.svg)](https://pkg.go.dev/github.com/ugent-library/mix)
+
 # ugent-library/mix
 
 Package mix implements convenience methods to integrate the Laravel Mix
